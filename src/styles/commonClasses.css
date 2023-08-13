@@ -7,3 +7,16 @@
     justify-content: center;
     align-items: center;
 }
+
+.collection-title{
+    font-size: 30px;
+    color:var(--heading-text);
+    margin-bottom: 32px;
+    font-weight: 590;
+}
+.slick-next:before{
+    color:var(--gray);
+}
+.slick-prev:before{
+    color:var(--gray);
+}

@@ -1,0 +1,41 @@
+.tab-options{
+    box-shadow: rgb(232, 232, 232) 0px -0.5px 0px inset;
+}
+
+.options-wrapper{
+    display: flex;
+}
+
+.tab-item{
+    margin-right: 25px;
+    padding: 12px 12px 20px 12px;
+
+}
+
+.tab-name{
+    font-size: 20px;
+    font-weight: 570;
+    margin-left: 10px;
+    color: #696969;
+}
+
+.tab-image-container{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: var(--inactive-color);
+
+}
+
+.tab-image{
+    height: 30px;
+    width: 30px;
+}
+
+.active-tab{
+    border-bottom: 3px solid #ff7e8b;
+
+}
+.active-tab .tab-name{
+    color:#EF4F5F;
+}

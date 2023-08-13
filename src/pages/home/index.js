@@ -6,7 +6,7 @@ import Delivery from '../../components/delivery'
 import DiningOut from '../../components/diningOut'
 const HomePage = () => {
 
-    const[activeTab,setActiveTab]= useState("Dining Out")
+    const[activeTab,setActiveTab]= useState("Delivery")
 
   return <div>
         <Header />
