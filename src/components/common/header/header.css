@@ -4,11 +4,17 @@
     align-items: center ;
     margin-bottom: 12px;
 }
-
+.header-logo-wrapper{
+    transform: scale(1.5);
+}
 .header-logo{
-    height: 27px;
+    height: 100px;
+    width: 80px;
     max-width: 140px;
-    margin-right: 24px;
+    margin-right: 0px;
+    margin-left: 150px;
+    transform: scale(1.5);
+    margin-top: 20px;
 }
 
 .header-right{

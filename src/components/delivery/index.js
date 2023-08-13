@@ -2,6 +2,7 @@ import React from 'react'
 import "./delivery.css"
 import Filters from '../common/filters'
 import DeliveryCollection from './deliveryCollection'
+import ExploreSection from '../common/exploreSection'
 
 const deliveryFilters=[
   {
@@ -24,6 +25,7 @@ const Delivery = () => {
     </div>
    
    <DeliveryCollection />
+   <ExploreSection />
   </div>
 }
 

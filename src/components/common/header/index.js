@@ -1,18 +1,20 @@
 import React from 'react'
 import "./header.css"
-
+import logo from './logo.png'
 const Header = () => {
   return (
-    <div className='max-width header'>
-        <img src='https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png'
+    <div className='header'>
+      <div className='header-logo-wrapper'>
+        <img src={logo}
          alt='zomato-logo' className='header-logo'>
         </img>
-        <div className='header-right'>
+        </div>
+        <div className='header-right max-width'>
             <div className='header-location-search-container'>
                 <div className='location-wrapper'>
                     <div className='location-icon-name'>
                     <i className="fi fi-sr-marker absolute-center location-icon"></i>
-                    <div>Bangalore</div>
+                    <div>Aryabhatta Hostel</div>
                     </div>
                     <i className="fi fi-rr-caret-down absolute-center"></i>
                 </div>
