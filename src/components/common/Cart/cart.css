@@ -1,0 +1,51 @@
+.cart-button {
+   height: 500px;
+   position: relative;
+  
+  }
+  
+  .amount-toggle {
+    display: flex; /* Display children in a row */
+    align-items: center; /* Center vertically */
+    margin-bottom: -460px;
+    margin-left: 180px;
+    width: -50px;
+    padding: 3px;
+    margin-right: -45px;
+  }
+  
+  .amount-toggle button {
+    /* Your button styles */
+    margin: 0 15px; /* Add some spacing between buttons */
+    height: 20px;
+    width: 30px;
+  }
+  .amount-style{
+    margin-top: 2px;
+    margin-bottom: 470px;
+    font-size: 20px;
+  }
+  .minus {
+    font-size: 48px; /* Set the font size */
+    margin-right: 0px; /* Add some right margin for spacing */
+    /* Add any other desired styles */
+    align-items: center;
+    display:flex;
+    height: 0px;
+    position: absolute;
+    margin-top: -4px;
+    margin-left: 0px;
+  }
+  
+  .plus {
+    font-size: 28px; /* Set the font size */
+    margin-right: 0px; /* Add some right margin for spacing */
+    /* Add any other desired styles */
+    align-items: center;
+    display:flex;
+    height: 0px;
+    position: absolute;
+    margin-top: 0.5px;
+    margin-left: 0px;
+  }
+  

@@ -4,7 +4,7 @@ import "./tab.css"
 const tabs=[
 {  
   id:1,
-  name:"Delivery",
+  name:"Food",
   active_img:
     "https://b.zmtcdn.com/data/o2_assets/c0bb85d3a6347b2ec070a8db694588261616149578.png?output-format=webp",
   backdrop: "#FCEEC0",
@@ -13,7 +13,7 @@ const tabs=[
   },
 {  
   id:2,
-  name:"Dining Out",
+  name:"Beverage",
   active_img:
     "https://b.zmtcdn.com/data/o2_assets/30fa0a844f3ba82073e5f78c65c18b371616149662.png",
   backdrop: "#E5F3F3",

@@ -6,7 +6,7 @@ import Delivery from '../../components/delivery'
 import DiningOut from '../../components/diningOut'
 const HomePage = () => {
 
-    const[activeTab,setActiveTab]= useState("Delivery")
+    const[activeTab,setActiveTab]= useState("Food")
 
   return <div>
         <Header />
@@ -19,9 +19,9 @@ const HomePage = () => {
 
 const getCorrectScreen=(tab)=>{
     switch(tab){
-        case "Delivery":
+        case "Food":
             return <Delivery />
-        case "Dining Out":
+        case "Beverage":
             return <DiningOut />
         default:
             return <Delivery />

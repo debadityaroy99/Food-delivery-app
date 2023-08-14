@@ -20,3 +20,6 @@
 .slick-prev:before{
     color:var(--gray);
 }
+.cur-po{
+    cursor: pointer;
+}

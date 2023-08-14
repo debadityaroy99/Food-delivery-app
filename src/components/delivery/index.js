@@ -3,7 +3,7 @@ import "./delivery.css"
 import Filters from '../common/filters'
 import DeliveryCollection from './deliveryCollection'
 import ExploreSection from '../common/exploreSection'
-
+import { restaurants } from '../../data/restaurants '
 const deliveryFilters=[
   {
     id:1,
@@ -16,16 +16,17 @@ const deliveryFilters=[
     title: 'Pure Veg'
   }
 ]
-
+const restaurantList= restaurants
 const Delivery = () => {
   return <div>
     <div className='max-width filter-adjustment'>
        <Filters filterlist={deliveryFilters} />
        
     </div>
-   
+  
    <DeliveryCollection />
-   <ExploreSection />
+   <ExploreSection list={restaurantList} collectionName='Delivery restaurants in Agartala'/>
+   
   </div>
 }
 
