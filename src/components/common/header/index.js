@@ -1,8 +1,11 @@
 import React from 'react'
 import "./header.css"
 import logo from './logo.png'
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 const Header = () => {
   return (
+
+
     <div className='header'>
       <div className='header-logo-wrapper'>
         <img src={logo}

@@ -19,3 +19,20 @@
     overflow: hidden;
     margin-top: 6px;
 }
+@media (max-width: 395px){
+    .delivery-item-image{
+        object-fit: none;
+        height: 100%;
+        width: 100%;
+        border-radius: 20px;
+    }
+}
+@media (max-width: 395px){
+    .delivery-item-cover{
+        height: 190px;
+        width: 260px;
+        background-color: var(--primary-bg);
+        box-shadow: var(--collection-shadow);
+        border-radius: 8px;
+     }
+}

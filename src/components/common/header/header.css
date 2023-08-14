@@ -14,7 +14,8 @@
     margin-right: 0px;
     margin-left: 150px;
     transform: scale(1.5);
-    margin-top: 20px;
+    margin-top: 25px;
+    position: static;
 }
 
 .header-right{
@@ -35,6 +36,7 @@
     border: 1px solid var(--border-white);
     width: 70%;
     background-color: rgb(255, 255, 255);
+
 }
 
 .location-wrapper{
@@ -94,4 +96,46 @@
 }
 .profile-options-icon{
     font-size: 20px;
+}
+@media (max-width: 395px) {
+    .header-logo{
+        max-width: 500px;
+        width: 0px;
+        height: 100px;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+}
+@media (max-width:393px) {
+    .header-right{
+        width: 50px;
+        
+    }
+}
+@media (max-width:393px) {
+    .profile-wrapper{
+        display: flex;
+        justify-content: space-between;
+        width: 15%;
+        align-items: center;
+        margin-left: 2px;
+    }
+}
+@media (max-width:393px) {
+    .header-username{
+        display: none;
+    }
+}
+@media (max-width:393px) {
+    .header-location-search-container{
+        width: 82%;    
+    }
+}
+@media (max-width:393px) {
+    .location-icon-name{
+        font-size: 12px ;
+        font-weight: 590;
+        margin-right: 8px;
+    }
+    
 }

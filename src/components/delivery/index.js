@@ -19,7 +19,7 @@ const deliveryFilters=[
 
 const Delivery = () => {
   return <div>
-    <div className='max-width'>
+    <div className='max-width filter-adjustment'>
        <Filters filterlist={deliveryFilters} />
        
     </div>
