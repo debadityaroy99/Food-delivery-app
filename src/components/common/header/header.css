@@ -97,7 +97,7 @@
 .profile-options-icon{
     font-size: 20px;
 }
-@media (max-width: 395px) {
+@media (max-width: 430px) {
     .header-logo{
         max-width: 500px;
         width: 0px;
@@ -106,13 +106,13 @@
         margin-top: 10px;
     }
 }
-@media (max-width:393px) {
+@media (max-width:430px) {
     .header-right{
         width: 50px;
         
     }
 }
-@media (max-width:393px) {
+@media (max-width:430px) {
     .profile-wrapper{
         display: flex;
         justify-content: space-between;
