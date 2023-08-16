@@ -296,9 +296,9 @@ export const restaurants=[
             "type": "restaurant",
             "info": {
                 "resId": 20357307,
-                "name": "Chai Sutta Bar",
+                "name": "Paneer",
                 "image": {
-                    "url": "https://b.zmtcdn.com/data/pictures/7/20357307/87de3428c54515f93da585c39fb05547_o2_featured_v2.jpg"
+                    "url": "https://b.zmtcdn.com/data/pictures/1/19511301/91d78b992f614ac96815391f97b0eb00_o2_featured_v2.jpg"
                 },
                 "o2FeaturedImage": {
                     "url": "https://b.zmtcdn.com/data/pictures/7/20357307/87de3428c54515f93da585c39fb05547_o2_featured_v2.jpg"
