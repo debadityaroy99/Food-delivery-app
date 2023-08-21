@@ -4,7 +4,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 20395253,
-                "name": "Pizza Hut",
+                "name": "Nimbu Pani",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/dish_photos/3c2/0a2f59c4450afb453a3faa60cf2943c2.jpg"
                 },
@@ -158,7 +158,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 19188013,
-                "name": "Domino's Pizza",
+                "name": "Jal Zeera",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/dish_photos/835/6a3cd91ddf842a6c4671c3aad9d41835.jpg"
                 },
@@ -315,7 +315,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 19037087,
-                "name": "Eatopia Zannat",
+                "name": "Banana Shake",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/dish_photos/b13/e48c1072f74ce6c156d5ede87b4b9b13.jpg"
                 },
@@ -464,7 +464,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 19253946,
-                "name": "Gopal Mistanna Bhandar",
+                "name": "Cold Cofee",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/dish_photos/da9/6b17a3a37a4c8b56cf48caf991ddeda9.png"
                 },
@@ -608,7 +608,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 19919693,
-                "name": "Kaami Boutique Cafe",
+                "name": "Banana Shake(Dark Chocolate)",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/dish_photos/b5a/aa6ecd88fcb05fac53ca5a78face5b5a.jpg"
                 },
@@ -755,7 +755,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 20350912,
-                "name": "Paradise Panch Foran",
+                "name": "Banana Shake(whey protein)",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/pictures/2/20350912/5a29aeb39e8088aadf9fc48dd298e0d9_o2_featured_v2.jpg"
                 },
@@ -904,7 +904,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 19159333,
-                "name": "Lets DimSum",
+                "name": "Apple Juice",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/dish_photos/b03/31d720d34536f54607f07bf52a1f8b03.jpg"
                 },
@@ -1051,7 +1051,7 @@ export const beverage=[
             "type": "restaurant",
             "info": {
                 "resId": 19028312,
-                "name": "Juice Bar",
+                "name": "Chocolate Milkshake",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/dish_photos/010/f33a6869d773dcb9ee32b70463a69010.jpg"
                 },
