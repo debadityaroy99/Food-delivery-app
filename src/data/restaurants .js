@@ -759,7 +759,7 @@ export const restaurants=[
             "type": "restaurant",
             "info": {
                 "resId": 20243438,
-                "name": "Tiffin Box",
+                "name": "Noodles",
                 "image": {
                     "url": "https://b.zmtcdn.com/data/pictures/8/20243438/136279eb4f1b2b6b8a5881b078a9836e_o2_featured_v2.jpg"
                 },
